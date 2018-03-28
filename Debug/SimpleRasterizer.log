@@ -1,0 +1,117 @@
+﻿  Vertex.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vcolor.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Vector3.cpp
+  Texture.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\texture.cpp(14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  DirectXLib.cpp
+  正在生成代码...
+  正在编译...
+  RenderWindow.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vcolor.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4838: 从“float”转换到“int”需要收缩转换
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(155): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(156): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(157): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(158): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  RenderManager.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vcolor.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4838: 从“float”转换到“int”需要收缩转换
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(155): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(156): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(157): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(158): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(66): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(70): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(95): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(107): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(108): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(130): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(145): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rendermanager.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+  Rasterizer.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vcolor.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(56): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(71): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(223): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(224): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(225): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(248): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(249): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(250): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(255): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(262): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(263): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(306): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\rasterizer.cpp(308): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Main.cpp
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vcolor.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\vertex.h(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4838: 从“float”转换到“int”需要收缩转换
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(43): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\cube.h(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(155): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(156): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(157): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\camera.h(158): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(94): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(152): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(154): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(177): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(179): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(185): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(187): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(189): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(434): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(435): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(436): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\txj12\documents\visual studio 2017\projects\simplerasterizer\simplerasterizer\main.cpp(437): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  Matrix.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Math.cpp
+  SimpleRasterizer.vcxproj -> C:\Users\txj12\Documents\Visual Studio 2017\Projects\SimpleRasterizer\Debug\SimpleRasterizer.exe
